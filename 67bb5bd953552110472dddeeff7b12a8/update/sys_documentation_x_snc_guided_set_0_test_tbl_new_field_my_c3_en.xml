@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="new_field_my_c3" label="New Field my c3" language="en" table="x_snc_guided_set_0_test_tbl">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>new_field_my_c3</element>
+            <help/>
+            <hint/>
+            <label>New Field my c3</label>
+            <language>en</language>
+            <name>x_snc_guided_set_0_test_tbl</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-12 08:19:31</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>New Field my c3</sys_name>
+            <sys_package display_value="guided setup demo" source="x_snc_guided_set_0">67bb5bd953552110472dddeeff7b12a8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="guided setup demo">67bb5bd953552110472dddeeff7b12a8</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_guided_set_0_test_tbl_new_field_my_c3_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-12 08:19:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
