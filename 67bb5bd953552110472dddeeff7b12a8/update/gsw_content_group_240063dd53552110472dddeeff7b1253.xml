@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_content_group">
+    <gsw_content_group action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <checksum>8x9/b5lyRFAXXq1D8ukh1Dv4IPs=</checksum>
+        <child_can_have_roles>false</child_can_have_roles>
+        <children_layout>0</children_layout>
+        <dependent_on_contents/>
+        <dependent_on_plugins/>
+        <dependent_on_plugins_ids/>
+        <description><![CDATA[<div> </div>
+<div><span style="font-size: 10pt; color: #000000;"><strong>Introduction</strong></span></div>
+<div> </div>
+<div><span style="color: #000000;">guided setup demo is a fast, intuitive, low-code visual development environment that empowers developers to build applications to power the digital enterprise. </span></div>]]></description>
+        <display_child_max_num>20</display_child_max_num>
+        <done_status_text/>
+        <hide_getting_started>false</hide_getting_started>
+        <icon/>
+        <implicit_dependent_on/>
+        <implicit_plugin_dependencies/>
+        <is_root_content>true</is_root_content>
+        <order>100</order>
+        <parent/>
+        <parents/>
+        <progress_text/>
+        <roles/>
+        <root_intro_frame_link/>
+        <root_parent/>
+        <skippable>true</skippable>
+        <supports_child_content>true</supports_child_content>
+        <sys_class_name>gsw_content_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-28 04:55:42</sys_created_on>
+        <sys_id>240063dd53552110472dddeeff7b1253</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>welcome to test GS</sys_name>
+        <sys_package display_value="guided setup demo" source="x_snc_guided_set_0">67bb5bd953552110472dddeeff7b12a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="guided setup demo">67bb5bd953552110472dddeeff7b12a8</sys_scope>
+        <sys_update_name>gsw_content_group_240063dd53552110472dddeeff7b1253</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-28 06:06:42</sys_updated_on>
+        <title>welcome to test GS</title>
+        <weight>1</weight>
+    </gsw_content_group>
+    <sys_translated_text action="delete_multiple" query="documentkey=240063dd53552110472dddeeff7b1253"/>
+</record_update>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_content_information">
+    <gsw_content_information action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <article><![CDATA[<p>article test</p>]]></article>
+        <best_practice_acceptable>false</best_practice_acceptable>
+        <dependent_on_contents/>
+        <dependent_on_plugins/>
+        <dependent_on_plugins_ids/>
+        <description/>
+        <embedded_help_qualifier/>
+        <end_point>http://localhost:8080/gsw_content_information.do?WIZARD:action=follow&amp;sys_action=&amp;sys_id=-1&amp;sys_target=gsw_content&amp;sysparm_collection=gsw_content_group&amp;sysparm_collectionID=34ba271953952110472dddeeff7b1225&amp;sysparm_collection_key=parent&amp;sysparm_query=&amp;sysparm_referring_url=gsw_content_list.do%3fsys_id%3d-1%4099%40sys_target%3dgsw_content%4099%40sysparm_collection%3dgsw_content_group%4099%40sysparm_collectionID%3d34ba271953952110472dddeeff7b1225%4099%40sysparm_collection_key%3dparent%4099%40sysparm_collection_label%3dGuided+Setup+Contents%4099%40sysparm_collection_related_field%3d%4099%40sysparm_collection_related_file%3d%4099%40sysparm_collection_related_relationship%3dgsw_content.parent%4099%40sysparm_collection_relationship%3d%4099%40sysparm_fixed_query%3d%4099%40sysparm_group_sort%3d%4099%40sysparm_parent%3dc7b27e70ff830200b18affffffffff12%4099%40sysparm_query%3d%4099%40sysparm_target%3d%4099%40sysparm_view%3d&amp;sysparm_target=&amp;wiz_action=sysverb_new&amp;wiz_collection_related_field=&amp;wiz_view=</end_point>
+        <end_point_open_mode>1</end_point_open_mode>
+        <end_point_type>1</end_point_type>
+        <field/>
+        <filter/>
+        <filter_result/>
+        <implicit_dependent_on/>
+        <implicit_plugin_dependencies/>
+        <is_dynamic>false</is_dynamic>
+        <more_info_available>false</more_info_available>
+        <more_info_html/>
+        <order>10</order>
+        <parent display_value="guided setup group 2">34ba271953952110472dddeeff7b1225</parent>
+        <parents>34ba271953952110472dddeeff7b1225,240063dd53552110472dddeeff7b1253</parents>
+        <plugin_id/>
+        <property_name/>
+        <property_value/>
+        <quick_startable>false</quick_startable>
+        <root_parent display_value="welcome to test GS">240063dd53552110472dddeeff7b1253</root_parent>
+        <skippable>true</skippable>
+        <supports_child_content>false</supports_child_content>
+        <sys_class_name>gsw_content_information</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-28 05:47:19</sys_created_on>
+        <sys_id>08db635953952110472dddeeff7b12e8</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>guided setup group 2 - task 1</sys_name>
+        <sys_package display_value="guided setup demo" source="x_snc_guided_set_0">67bb5bd953552110472dddeeff7b12a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="guided setup demo">67bb5bd953552110472dddeeff7b12a8</sys_scope>
+        <sys_update_name>gsw_content_information_08db635953952110472dddeeff7b12e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-28 05:47:19</sys_updated_on>
+        <table/>
+        <title>guided setup group 2 - task 1</title>
+        <weight>1</weight>
+    </gsw_content_information>
+    <sys_translated_text action="delete_multiple" query="documentkey=08db635953952110472dddeeff7b12e8"/>
+</record_update>
